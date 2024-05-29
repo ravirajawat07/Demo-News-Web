@@ -1,0 +1,11 @@
+*{
+  font-family: "Indie Flower", cursive;
+}
+
+#theme-btn{
+  height: 40px;
+  width: 40px;
+  border: none;
+  border-radius: 500px;
+  text-align: center;
+}
